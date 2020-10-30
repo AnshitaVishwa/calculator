@@ -11,7 +11,7 @@ The project an be run as follows:
 
 1. git clone https://github.com/AnshitaVishwa/calculator.git
 
-2. cd Calculator
+2. cd calculator
 
 3. python3 practice.py
 
